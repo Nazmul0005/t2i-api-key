@@ -1,0 +1,21 @@
+{
+    "template": {
+      "duration": 10,
+      "resolution": "hd",
+      "scenes": [
+        {
+          "elements": [
+            {
+              "type": "image",
+              "src": "YOUR_IMAGE_URL",
+              "duration": 10,
+              "animation": {
+                "type": "zoom-in",
+                "duration": 10
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
